@@ -12,7 +12,3 @@ This data science project series walks through step by step process of how to bu
 7. HTML/CSS/Javascript for UI
 
 
-## Authors
-
-- https://github.com/codebasics/py/tree/master/DataScience/BangloreHomePrices
-
